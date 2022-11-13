@@ -313,7 +313,7 @@ plt.legend()
 
 
 
-![png](SO2_Emission_Prediction_from_Diesel_Engines_with_Quantum_Technology_%285G%29_files/SO2_Emission_Prediction_from_Diesel_Engines_with_Quantum_Technology_%285G%29_28_1.png)
+![png](https://raw.githubusercontent.com/emirhanai/SO2-Emission-Prediction-from-Diesel-Engines-with-Quantum-Technology-5G-/main/PHOTOS%20GRPAHS/SO2_Emission_Prediction_from_Diesel_Engines_with_Quantum_Technology_(5G)_28_1.png)
 
 
 
@@ -337,7 +337,7 @@ plt.legend()
 
 
 
-![png](SO2_Emission_Prediction_from_Diesel_Engines_with_Quantum_Technology_%285G%29_files/SO2_Emission_Prediction_from_Diesel_Engines_with_Quantum_Technology_%285G%29_29_1.png)
+![png](https://raw.githubusercontent.com/emirhanai/SO2-Emission-Prediction-from-Diesel-Engines-with-Quantum-Technology-5G-/main/PHOTOS%20GRPAHS/SO2_Emission_Prediction_from_Diesel_Engines_with_Quantum_Technology_(5G)_29_1.png)
 
 
 ## ML Algorithm (RandomForest) vs MyQuantum 5G Algorithm
@@ -363,7 +363,7 @@ plt.legend()
 
 
 
-![png](SO2_Emission_Prediction_from_Diesel_Engines_with_Quantum_Technology_%285G%29_files/SO2_Emission_Prediction_from_Diesel_Engines_with_Quantum_Technology_%285G%29_31_1.png)
+![png](https://raw.githubusercontent.com/emirhanai/SO2-Emission-Prediction-from-Diesel-Engines-with-Quantum-Technology-5G-/main/PHOTOS%20GRPAHS/SO2_Emission_Prediction_from_Diesel_Engines_with_Quantum_Technology_(5G)_31_1.png)
 
 
 ## Classical AI Model Bytes vs Quantum 5G AI Model Bytes
@@ -410,5 +410,5 @@ plt.legend()
 
 
 
-![png](SO2_Emission_Prediction_from_Diesel_Engines_with_Quantum_Technology_%285G%29_files/SO2_Emission_Prediction_from_Diesel_Engines_with_Quantum_Technology_%285G%29_35_1.png)
+![png](https://raw.githubusercontent.com/emirhanai/SO2-Emission-Prediction-from-Diesel-Engines-with-Quantum-Technology-5G-/main/PHOTOS%20GRPAHS/SO2_Emission_Prediction_from_Diesel_Engines_with_Quantum_Technology_(5G)_35_1.png)
 
