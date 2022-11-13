@@ -15,6 +15,8 @@
   </td>
 </table>
 
+![png](https://raw.githubusercontent.com/emirhanai/SO2-Emission-Prediction-from-Diesel-Engines-with-Quantum-Technology-5G/main/SO2%20Emission%20Prediction%20from%20Diesel%20Engines%20with%20Quantum%20Technology%20(5G).png)
+
 # Installing Libraries
 
 
