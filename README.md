@@ -2,7 +2,7 @@
 # SO2 Emission Prediction from Diesel Engines with Quantum Technology (5G)
 **Author:** [Emirhan BULUT](https://www.linkedin.com/in/artificialintelligencebulut/)<br>
 **Date created:** 2022/11/12<br>
-**Last modified:** 2022/11/12<br>
+**Last modified:** 2022/11/12<br> {NEW}
 **Description:** A worldwide study has been conducted on the emission values of SO2 gases released from diesel engines in the world (class 1 if it has increased compared to the previous year, class 0 if there has been a decrease compared to the previous year, and class 0 for the starting years). In this research, 5G compatible quantum algorithms were designed by me. Quantum computer was used for the process. The minimum number of qubits is set for use on all computers. Finally, the same data was tested in the classical deep neural network (deep learning) network and Machine Learning algorithm (Random Forest). On the basis of test accuracy, the quantum5 algorithm was found to be more performant than all of them.
 
 <table class="tfo-notebook-buttons" align="left">
