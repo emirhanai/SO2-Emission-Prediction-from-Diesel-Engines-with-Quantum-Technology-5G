@@ -5,6 +5,40 @@
 **Last modified:** 2022/11/12<br>
 **Description:** A worldwide study has been conducted on the emission values of SO2 gases released from diesel engines in the world (class 1 if it has increased compared to the previous year, class 0 if there has been a decrease compared to the previous year, and class 0 for the starting years). In this research, 5G compatible quantum algorithms were designed by me. Quantum computer was used for the process. The minimum number of qubits is set for use on all computers. Finally, the same data was tested in the classical deep neural network (deep learning) network and Machine Learning algorithm (Random Forest). On the basis of test accuracy, the quantum5 algorithm was found to be more performant than all of them.
 
+### Aim
+
+The aim of the project is to design a Quantum Artificial Intelligence brain that learns the emission values ​​of SO2 gases released from diesel engines in the world with the 8-layer Quantum Algorithm, and then to compare the performance of the created Quantum Artificial Intelligence brain with Machine Learning, Deep Learning (Classical Neuronal Networks).
+
+### Performance (Accuracy)
+
+Quantum Artificial Intelligence algorithms have been proven to be more performant than Machine Learning and Deep Learning artificial intelligence systems.
+
+### Speed
+
+Quantum AI algorithms have been proven to be faster than Machine Learning and Deep Learning artificial intelligence systems.
+
+### Energy
+
+It has been proven that Quantum Artificial Intelligence algorithms use less energy in commercial/academic uses after model formation than Machine Learning and Deep Learning artificial intelligence systems. You can access this proof by file size.
+
+### Usage Area
+
+This project has proven to be compatible with 5G technology. The result obtained from the logarithm of the division of the byte rates transferred at 5G speed to the model accuracy is more than the result obtained in 4G technology, as in the following mathematical calculation.
+
+5G = 10Gbps
+
+4G = 0.1Gbps
+
+**log(5G/model_byte) = 2.698970004336X**
+
+**log(4G/model_byte) = 0.69897000433602X**
+
+I proudly present this software,
+
+Thank you.
+
+Emirhan BULUT
+
 <table class="tfo-notebook-buttons" align="left">
 
   <td>
