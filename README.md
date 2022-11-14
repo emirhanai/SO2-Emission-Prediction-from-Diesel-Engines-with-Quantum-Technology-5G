@@ -197,6 +197,8 @@ model.evaluate(X_test,y_test)
     [0.24798709154129028, 0.8181818127632141]
 
 
+##Model Summary and Chart for Quantum
+![png](https://raw.githubusercontent.com/emirhanai/SO2-Emission-Prediction-from-Diesel-Engines-with-Quantum-Technology-5G/main/keras_my_model_chart.png)
 
 **Model Summary for Quantum**
 
